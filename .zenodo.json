@@ -1,0 +1,8 @@
+{
+  "title": "risk-calibrated-stego: Conformal risk control for per-image payload allocation in image steganography under steganalyzer mismatch",
+  "description": "Notebook, results and figures for calibrating per-image payload allocation in spatial-domain image steganography (HILL, BOSSbase 1.01) by conformal risk control, with a leave-one-detector-out test of transfer to independent steganalyzers.",
+  "creators": [{"name": "Hamam, Habib", "affiliation": "Université de Moncton"}],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["steganography", "steganalysis", "conformal risk control", "payload allocation", "detector mismatch"]
+}
