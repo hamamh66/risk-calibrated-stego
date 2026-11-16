@@ -8,6 +8,7 @@ authors:
 license: MIT
 repository-code: "https://github.com/hamamh66/risk-calibrated-stego"
 version: "1.0.0"
+doi: "10.5281/zenodo.24286822"
 date-released: "2026-11-16"
 keywords:
   - steganography

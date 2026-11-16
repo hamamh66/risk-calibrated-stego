@@ -1,5 +1,7 @@
 # risk-calibrated-stego
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24286822.svg)](https://doi.org/10.5281/zenodo.24286822)
+
 Conformal risk control for per-image payload allocation in spatial-domain image steganography, and a test of whether the resulting guarantee transfers to steganalyzers the sender never queries.
 
 ## What the code does
@@ -51,6 +53,10 @@ Seeds are fixed for the data split, network initialization, payload draws and re
 - Embedding is simulated with optimal ternary change probabilities; no practical coding is performed.
 - The detectability-limited rule uses a simplified local residual-variance estimate.
 - In the reported run, the SRNet-style network was stopped at epoch 61 of its second training phase, and the checkpoint with the lowest smoothed validation loss (epoch 58) was used.
+
+## Citation
+
+Archived release: Hamam, H. (2026). *risk-calibrated-stego* (version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24286822
 
 ## License
 
